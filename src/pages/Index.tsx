@@ -289,16 +289,16 @@ export default function Index() {
               <div className="flex justify-between items-center">
                 <div className="transition-all duration-200">
                   <h1 className="text-3xl font-bold bg-gradient-to-r from-white to-blue-100 bg-clip-text text-transparent drop-shadow-sm">
-                    VinFly
+                    Ngọc Linh Travel
                   </h1>
                   <div className="text-blue-100 dark:text-blue-200">
-                    <p>Địa chỉ: 경상남도 김해시 금관대로1190</p>
-                    <p>Điện thoại: 010.7215.3199</p>
-                    <p>Email: congtyvinfly.com</p>
+                    <p>Địa chỉ: </p>
+                    <p>Điện thoại: </p>
+                    <p>Email: ngoclinhtravel.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
-{/*                   <Button
+                 <Button
                     onClick={() => setIsEmailModalOpen(true)}
                     variant="ghost"
                     size="lg"
@@ -307,7 +307,7 @@ export default function Index() {
                      transition-all"
                   >
                     Gửi Mặt Vé
-                  </Button> */}
+                  </Button> 
                   <UserProfileDropdown />
                 </div>
               </div>
