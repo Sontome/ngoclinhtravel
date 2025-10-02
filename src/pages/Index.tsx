@@ -294,9 +294,9 @@ export default function Index() {
                     Ngọc Linh Travel
                   </h1>
                   <div className="text-blue-100 dark:text-blue-200">
-                    <p>Địa chỉ: </p>
-                    <p>Điện thoại: </p>
-                    <p>Email: ngoclinhtravel.com</p>
+                    <p>Địa chỉ: Toà B VC2, Golden Heart, Hoàng Mai, Hà Nội </p>
+                    <p>Điện thoại: +84-984367755 </p>
+                    <p>Email: ngocnt.na@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
